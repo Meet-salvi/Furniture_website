@@ -63,8 +63,7 @@ function Home() {
                 className="vr5-hero-banner"
                 data-background="assets/images/home-5/sofa_banner1.png"
                 style={{
-                  backgroundImage:
-                    "url(assets/images/home-5/sofa_banner2.png)",
+                  backgroundImage: "url(assets/images/home-5/sofa_banner2.png)",
                 }}
               />
             </div>
@@ -236,52 +235,26 @@ function Home() {
         <div className="container-fluid p-0">
           <div className="row g-0">
             <div className="col-xl-6">
-              <div className="vr5-ct-single-box position-relative border-bottom-0 border-start-0">
+              <div className="vr5-ct-single-box position-relative border-start-0 large-box">
                 <img
-                  src="assets/images/home-5/ct-1.jpg"
+                  src="assets/images/home-5/sofa1.png"
                   alt="not found"
                   className="img-fluid"
                 />
                 <a href="shop-list.html" className="explore-btn">
-                  Office Sofa
+                  Sofa
                 </a>
               </div>
-              <div className="row g-0">
-                <div className="col-sm-6">
-                  <div className="vr5-ct-single-box position-relative border-start-0">
-                    <img
-                      src="assets/images/home-5/ct-2.jpg"
-                      alt="not found"
-                      className="img-fluid"
-                    />
-                    <a href="shop-list.html" className="explore-btn">
-                      Chair
-                    </a>
-                  </div>
-                </div>
-                <div className="col-sm-6">
-                  <div className="vr5-ct-single-box position-relative border-start-0">
-                    <img
-                      src="assets/images/home-5/ct-3.jpg"
-                      alt="not found"
-                      className="img-fluid"
-                    />
-                    <a href="shop-list.html" className="explore-btn">
-                      Side Table
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
+            </div>{" "}
             <div className="col-xl-6">
               <div className="vr5-ct-single-box position-relative border-start-0 large-box">
                 <img
-                  src="assets/images/home-5/ct-4.jpg"
+                  src="assets/images/home-5/chair_banner2.png"
                   alt="not found"
                   className="img-fluid"
                 />
                 <a href="shop-list.html" className="explore-btn">
-                  Decoration
+                  Chair
                 </a>
               </div>
             </div>

@@ -34,13 +34,13 @@ function Header() {
                       <Link to="/">Home</Link>
                     </li>
                     <li>
-                      <Link to="/">About</Link>
-                    </li>
-                    <li>
                       <Link to="/shop">Shop</Link>
                     </li>
                     <li>
                       <Link to="/contact">Contact</Link>
+                    </li>
+                    <li>
+                      <Link to="/photo_section">Gallery</Link>
                     </li>
                   </ul>
                 </nav>
